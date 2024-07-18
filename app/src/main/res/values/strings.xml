@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GV_Practice</string>
+    <string name="gv">GV Example</string>
+    <string name="gridview_example">GridView Example</string>
+</resources>
